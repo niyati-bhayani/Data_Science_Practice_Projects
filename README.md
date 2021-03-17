@@ -1,2 +1,2 @@
 # Data-Science-Projects
-This repository contains all the Data Science projects created in Python as part of my learning assignments at GreyAtom Edutech Pvt. Ltd
+This repository contains all the Data Science Projects that I have created in Python through data collected from Kaggle and other sources
